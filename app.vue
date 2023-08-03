@@ -1,8 +1,9 @@
 <template>
   <div>
-    <pre>productObj:{{ productObj }}</pre>
+    <pre>productObj: dsfwesdo0kp{{ productObj }}</pre>
     <pre> rawObj:{{ rawObj }}</pre>
   </div>
+
 </template>
 <script setup>
 const productObj = ref(null);
